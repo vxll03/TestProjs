@@ -58,5 +58,6 @@ public class OrderManager {
         }
 
         executor.shutdown();
+        System.out.println("Hello world");
     }
 }
